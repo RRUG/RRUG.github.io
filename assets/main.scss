@@ -1,0 +1,43 @@
+---
+---
+
+$brand-color:      #ae2524 !default;
+
+@import "minima";
+
+.site-header {
+  background-color: #ae2524;
+  border-top: 5px solid white;
+  border-bottom: 1px solid white;
+  min-height: 56px;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+/*
+.site-header .wrapper {
+  padding-top: 180px;
+}
+*/
+
+
+.site-title, .site-title:visited {
+  padding-top: 5px;
+  padding-left: 70px;
+  padding-bottom: 5px;
+  background-image: url("/images/logo2.png");
+  background-position: left center;
+  background-size: 56px;// 200px;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.site-nav {
+  line-height: 20px;
+  padding-top: 40px;
+}
+
+.site-nav .page-link {
+  color: white;
+}
