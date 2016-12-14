@@ -1,25 +1,28 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Spotkanie #3"
 date:   2016-12-12 15:57:54 +0100
-categories: jekyll update
+categories: meetup
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Czas na kolejne spotkanie Rzeszów Ruby User Group!
 
-Jekyll also offers powerful support for code snippets:
+Czas: **16 grudnia 2016, godz. 18:00.**
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Miejsce: **[sala 202 budynku F Politechniki
+Rzeszowskiej](https://www.google.pl/maps/place/Marii+Sk%C5%82odowskiej-Curie+8%2F2,+Rzesz%C3%B3w/@50.0260119,21.9828244,19z/data=!3m1!4b1!4m5!3m4!1s0x473cfbafc82e1909:0xc1f8b4e1e7f09929!8m2!3d50.0260119!4d21.9833716)**
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Kolejna okazja, żeby spotkać na żywo i wymienić doświadczenia z innymi
+entuzjastami języka programowania Ruby. Zapraszamy zarówno developerów,
+jak i osoby które dopiero chcą zacząć swoją przygodę z programowaniem.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+W planach dwie prezentacje:
+*Aktor model, skąd wyruszasz, dlaczego tam w końcu dojdziesz*, którą
+poprowadzi **[Robert Pankowecki](https://twitter.com/pankowecki)** z
+wrocławskiej firmy [Arkency](https://arkency.com/),
+oraz o kryptografii w Ruby **Wojciecha Rząsy**.
+
+Jeśli ktoś jest chętny do wystąpienia z Lighting Talkiem (5 min na
+dowolny temat), serdecznie zapraszamy :)
+
+Do zobaczenia!
