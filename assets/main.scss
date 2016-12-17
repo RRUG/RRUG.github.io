@@ -6,9 +6,9 @@ $brand-color:      #ae2524 !default;
 @import "minima";
 
 .site-header {
-  background-color: #ae2524;
-  border-top: 5px solid white;
-  border-bottom: 1px solid white;
+  background-color: $brand_color;
+  border-top: 5px solid $background_color;
+  border-bottom: 1px solid $background_color;
   min-height: 56px;
 
   // Positioning context for the mobile navigation icon
@@ -30,7 +30,7 @@ $brand-color:      #ae2524 !default;
   background-position: left center;
   background-size: 56px;// 200px;
   background-repeat: no-repeat;
-  color: white;
+  color: $background_color;
 }
 
 .site-nav {
@@ -39,5 +39,17 @@ $brand-color:      #ae2524 !default;
 }
 
 .site-nav .page-link {
-  color: white;
+  color: $background_color;
 }
+
+@include media-query($on-palm) {
+  .site-nav .page-link {
+    color: $brand_color;
+  }
+
+  .site-nav {
+    padding-top: 0;
+    margin-top: 5px;
+  }
+}
+
