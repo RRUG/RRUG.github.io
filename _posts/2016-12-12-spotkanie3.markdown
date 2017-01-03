@@ -3,7 +3,6 @@ layout: post
 title:  "Spotkanie #3"
 date:   2016-12-12 15:57:54 +0100
 categories: meetup
-image: "images/default-image.png"
 ---
 
 ### Czas na kolejne spotkanie Rzeszów Ruby User Group!
