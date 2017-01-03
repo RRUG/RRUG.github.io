@@ -38,3 +38,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/default-image.png
