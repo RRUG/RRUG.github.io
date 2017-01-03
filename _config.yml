@@ -16,12 +16,17 @@
 title: Rzeszów Ruby User Group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Rzeszowska grupa użytkowników języka Ruby zaprasza na comiesięczne spotkania!
+  RRUG -- Rzeszowska grupa użytkowników języka Ruby zaprasza na comiesięczne spotkania!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rrug.pl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rrugpl
+twitter:
+  username: rrugpl
 github_username: rrug
 facebook_username: rrugpl
+facebook:
+  publisher: "https://facebook.com/rrugpl"
+logo: "images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -29,6 +34,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
