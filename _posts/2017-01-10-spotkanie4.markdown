@@ -19,6 +19,7 @@ programistów jak i osoby które dopiero chcą zacząć swoją przygodę z
 programowaniem.
 
 W planach dwie prezentacje:
+
 * Filipa Rodzika o tworzeniu w Rubym biblioteki do sterowania
 RaspberyPi,
 * Wojciecha Rząsy o tym jak i do czego używać kryptografii asymetrycznej
