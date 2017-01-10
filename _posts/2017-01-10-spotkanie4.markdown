@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Spotkanie #4 – 19.01.2017 – RaspberryPi i kryptografia!"
+date:   2017-01-10 10:00:00 +0100
+categories: meetup
+---
+
+### Tym razem o RaspberryPi i o kryptografii asymetrycznej!
+
+Czas: **19 grudnia 2017, godz. 18:30.**
+
+Miejsce: **[sala 202 budynku F Politechniki
+Rzeszowskiej](https://www.google.pl/maps/place/Marii+Sk%C5%82odowskiej-Curie+8%2F2,+Rzesz%C3%B3w/@50.0260119,21.9828244,19z/data=!3m1!4b1!4m5!3m4!1s0x473cfbafc82e1909:0xc1f8b4e1e7f09929!8m2!3d50.0260119!4d21.9833716)**
+
+Zapraszamy na kolejne spotkanie. Będzie okazja, żeby posłuchać,
+podyskutować i wymienić się swoimi doświadczeniami.
+Zapraszamy zarówno doświadczonych developerów, początkujących
+programistów jak i osoby które dopiero chcą zacząć swoją przygodę z
+programowaniem.
+
+W planach dwie prezentacje:
+- Filipa Rodzika o tworzeniu w Rubym biblioteki do sterowania
+RaspberyPi,
+- Wojciecha Rząsy o tym jak i do czego używać kryptografii asymetrycznej
+w Rubym.
+
+Jeśli ktoś jest chętny do wystąpienia z Lighting Talkiem (ok 5 min na
+dowolny temat), serdecznie zapraszamy :)
+
+Zarezerwujcie sobie czas na afterparty ;-)
+
+Do zobaczenia!
