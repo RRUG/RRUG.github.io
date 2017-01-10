@@ -19,9 +19,9 @@ programistów jak i osoby które dopiero chcą zacząć swoją przygodę z
 programowaniem.
 
 W planach dwie prezentacje:
-- Filipa Rodzika o tworzeniu w Rubym biblioteki do sterowania
+* Filipa Rodzika o tworzeniu w Rubym biblioteki do sterowania
 RaspberyPi,
-- Wojciecha Rząsy o tym jak i do czego używać kryptografii asymetrycznej
+* Wojciecha Rząsy o tym jak i do czego używać kryptografii asymetrycznej
 w Rubym.
 
 Jeśli ktoś jest chętny do wystąpienia z Lighting Talkiem (ok 5 min na
