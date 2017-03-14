@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Spotkanie #5 – 28.03.2017 – Wrocloverb i o szukaniu pracy w Rubym"
+date:   2017-01-10 10:00:00 +0100
+categories: meetup
+---
+
+### O szukaniu pracy w Rubym i o tym co było na Wrocloverb
+
+Czas: **28 marca 2017, godz. 18:00.**
+
+Miejsce: **[KWADRAT, Bardowskiego
+4](https://www.google.pl/maps/place/KWADRAT+-+Podkarpacka+Przestrze%C5%84+Kreatywna/@50.0419506,21.9941594,15z/data=!4m8!1m2!2m1!1skwadrat+rzesz%C3%B3w+bartowskiego!3m4!1s0x473cfb1d56edb3cb:0x8a0ba3e44d9c88e9!8m2!3d50.0415756!4d22.0091658)**
+
+Zapraszamy na kolejne spotkanie. Tym razem w nowym miejscu!
+
+Tym razem poza okazją do spotkania na żywo z ludźmi, którzy na codzień
+używają Rubiego będzie można też posłuchać o doświadczeniach szukania
+(wybierania?) pracy w Rubym (zakończonych sukcesem ;)). Poza tym
+powspominamy co było ciekawego na Wrocloverb -- polskiej konferencji
+dotyczącej Rubiego. Zapraszamy!
+
+Podsumowując, w planach są dwie prezentacje:
+
+* Maciek Rząsa:  *Czego nauczyłem się szukając pracy*
+* Co ciekawego było na polskiej konferencji rubiowej [wrocloverb](http://wrocloverb.com)
+
+Jeśli ktoś jest chętny do wystąpienia z Lighting Talkiem (ok 5 min na
+dowolny temat), serdecznie zapraszamy :)
+
+Zarezerwujcie sobie czas na afterparty ;-)
+
+Do zobaczenia!
