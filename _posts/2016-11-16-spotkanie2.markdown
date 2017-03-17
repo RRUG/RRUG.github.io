@@ -6,7 +6,7 @@ date:   2016-11-16 18:37:24 +0100
 categories: meetup
 ---
 
-### Drugie spotkanie Rzeszów Ruby User Group!
+### Kodowanie znaków i klasowe zmienne instancyjne
 
 Czas: **30 listopada 2016, godz. 18:30.**
 
