@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Spotkanie #2 – 30.11.2016 – Kodowanie znaków i klasowe zmienne
+title:  "Spotkanie #2 – 30.11.2016 – Kodowanie znaków. Klasowe zmienne
 instancyjne"
 date:   2016-11-16 18:37:24 +0100
 categories: meetup
 ---
 
-### Kodowanie znaków i klasowe zmienne instancyjne
+### Kodowanie znaków. Klasowe zmienne instancyjne
 
 Czas: **30 listopada 2016, godz. 18:30.**
 

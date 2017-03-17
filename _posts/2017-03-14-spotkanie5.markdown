@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotkanie #5 – 28.03.2017 – Wrocloverb i o szukaniu pracy w Rubym"
+title:  "Spotkanie #5 – 28.03.2017 – Wrażenia z Wrocloverb. O szukaniu pracy w Rubym"
 date:   2017-03-14 10:00:00 +0100
 categories: meetup
 ---

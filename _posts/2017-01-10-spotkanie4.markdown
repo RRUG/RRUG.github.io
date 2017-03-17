@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotkanie #4 – 19.01.2017 – RaspberryPi i kryptografia!"
+title:  "Spotkanie #4 – 19.01.2017 – RaspberryPi. Kryptografia"
 date:   2017-01-10 10:00:00 +0100
 categories: meetup
 ---

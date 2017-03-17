@@ -1,5 +1,5 @@
 ---
-title:  "Spotkanie #3 – 16.12.2016 – O modelu aktorów i o kryptografii"
+title:  "Spotkanie #3 – 16.12.2016 – Model aktorów. Kryptografia"
 layout: post
 date:   2016-12-12 15:57:54 +0100
 categories: meetup
