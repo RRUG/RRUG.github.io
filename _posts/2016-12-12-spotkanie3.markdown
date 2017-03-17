@@ -5,7 +5,7 @@ date:   2016-12-12 15:57:54 +0100
 categories: meetup
 ---
 
-### Czas na kolejne spotkanie Rzeszów Ruby User Group!
+### Robert Pankowecki o modelu aktorów, Wojciech Rząsa o kryptografii
 
 Czas: **16 grudnia 2016, godz. 18:00.**
 
