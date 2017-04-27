@@ -16,8 +16,6 @@ Zapraszamy na kolejne spotkanie. Już teraz zarezerwujcie sobie czas!
 
 **Mamy już trzy tematy Lightning Talków! Czekamy na Twoją propozycję!**
 
-Niedługo damy znać co jeszcze Was czeka! ;-)
-
 Wszystkich chętnych do wystąpienia z Lighting Talkiem (ok 5 min na
 dowolny temat), serdecznie zapraszamy :) Tym razem **jest okazja wygrać
 darmową wejściówkę** na pierwszą rzeszowską konferencję deweloperską
@@ -26,3 +24,15 @@ darmową wejściówkę** na pierwszą rzeszowską konferencję deweloperską
 Zarezerwujcie sobie czas na afterparty ;-)
 
 Do zobaczenia!
+
+
+A było o:
+
+* zaawansowanym użyciu gita; wyjaśnione tak prosto jak to możliwe
+(Maciek),
+* klonowaniu obiektów w Rubym wraz z zależnościami (Wojtek),
+* znacznie szybszej alternatywie dla capistrsano (Kamil),
+* używaniu jednostek (czasu, wielkości, odległości) w Rubym (Wojtek)
+* użyciu gita i edytora podczas prezentacji, żeby bez slajdów wygodnie pokazywać kolejne fragmenty kodu (Wojtek).
+
+Szkoda, że Was nie było! Zapraszamy następnym razem!
