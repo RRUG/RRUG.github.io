@@ -5,7 +5,7 @@ date:   2017-06-06 11:00:00 +0100
 categories: meetup
 ---
 
-### O testach jednostkowych. O programowaniu funkcyjnym w Rubym!
+### O Hanami. O programowaniu gier w Rubym!
 
 Czas: **27 czerwca 2017, godz. 18:45.**
 
