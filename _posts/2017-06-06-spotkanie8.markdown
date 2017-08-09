@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Spotkanie #8 – 27.06.2017 – Hanami. Tworzenie gier w Ruby."
+date:   2017-06-06 11:00:00 +0100
+categories: meetup
+---
+
+### O testach jednostkowych. O programowaniu funkcyjnym w Rubym!
+
+Czas: **27 czerwca 2017, godz. 18:45.**
+
+Miejsce: Tym razem **[KWADRAT, Bardowskiego
+4](https://www.google.pl/maps/place/KWADRAT+-+Podkarpacka+Przestrze%C5%84+Kreatywna/@50.0419506,21.9941594,15z/data=!4m8!1m2!2m1!1skwadrat+rzesz%C3%B3w+bartowskiego!3m4!1s0x473cfb1d56edb3cb:0x8a0ba3e44d9c88e9!8m2!3d50.0415756!4d22.0091658)**
+
+Zapraszamy na kolejne spotkanie. W planach dwie prezentacje:
+
+* [Paweł Cyło](https://twitter.com/PawelCylo) opowie o Hanami
+* [Róża Szylar](https://twitter.com/rozaszy) opowie o tworzeniu gier w Ruby
+
+Poza tym zapowiadają się niezmiernie ciekawe Ligthning Talki, które
+przedstawią:
+
+* [Michał Borkowski](https://twitter.com/wielkiborsuk)
+* Michał Zięba z firmy [Equiquo](https://equiqo.com/)
+
+Wszystkich innych również zachęcamy do wystąpienia z Lighting Talkiem
+(ok 5 min na dowolny temat). 
+
+Serdecznie zapraszamy :) Zarezerwujcie sobie czas na afterparty ;-)
+
+Do zobaczenia!
