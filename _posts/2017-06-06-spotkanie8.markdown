@@ -14,7 +14,8 @@ Miejsce: Tym razem **[KWADRAT, Bardowskiego
 
 Zapraszamy na kolejne spotkanie. W planach dwie prezentacje:
 
-* [Paweł Cyło](https://twitter.com/PawelCylo) opowie o Hanami
+* [Paweł Cyło](https://twitter.com/PawelCylo) opowie o
+[Hanami](http://hanamirb.org/)
 * [Róża Szylar](https://twitter.com/rozaszy) opowie o tworzeniu gier w Ruby
 
 Poza tym zapowiadają się niezmiernie ciekawe Ligthning Talki, które
