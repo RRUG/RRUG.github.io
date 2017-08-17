@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rzeszów Ruby User Group
-#email: your-email@domain.com
+email: kontakt [maupa] rrug.pl
 description: > # this means to ignore newlines until "baseurl:"
   RRUG – Rzeszow Ruby User Group – Rzeszowska grupa użytkowników języka Ruby zaprasza na comiesięczne otwarte spotkania!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,6 +37,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-email-protect
 exclude:
   - Gemfile
   - Gemfile.lock

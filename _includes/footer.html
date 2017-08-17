@@ -15,7 +15,11 @@
             {% endif %}
             </li>
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;{{ site.email | replace: " [maupa] ", "@" | encode_email }}">
+                <script type="text/javascript">
+                  document.write(decodeURI('{{ site.email  | encode_email | split: '' | reverse }}'.split('').reverse().join("")).replace(" [maupa] ", "@"));
+                </script>
+              </a></li>
             {% endif %}
         </ul>
       </div>
