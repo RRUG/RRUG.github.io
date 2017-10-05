@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Spotkanie #9 – 5.10.2017 – Wrażenia z EURUKO. Obsługa XLSX w Rubym."
-date:   2017-05-19 22:45:00 +0100
+title:  "Spotkanie #9 – 12.10.2017 – Wrażenia z EURUKO. Obsługa XLSX w Rubym."
+date:   2017-10-05 21:40:00 +0100
 categories: meetup
 ---
 
