@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Spotkanie #9 – 12.10.2017 – Wrażenia z EURUKO. Obsługa XLSX w Rubym."
+date:   2017-10-05 21:40:00 +0100
+categories: meetup
+---
+
+### Wrażenia z EURUKO. Obsługa XLSX w Rubym.
+
+Czas: **12 października 2017, godz. 18:30**
+
+Miejsce: **[sala 202 budynku F Politechniki
+Rzeszowskiej](https://www.google.pl/maps/place/Marii+Sk%C5%82odowskiej-Curie+8%2F2,+Rzesz%C3%B3w/@50.0260119,21.9828244,19z/data=!3m1!4b1!4m5!3m4!1s0x473cfbafc82e1909:0xc1f8b4e1e7f09929!8m2!3d50.0260119!4d21.9833716)**
+
+
+Zapraszamy na kolejne spotkanie. W planach dwie prezentacje:
+
+* [Maciek Rząsa](https://twitter.com/mjrzasa) opowie o obsłudze formatu XLSX w Rubym
+* [Wojtek Rząsa](https://twitter.com/wrzasa) podzieli się wrażeniami z konferencji [EURUKO](https://www.euruko2017.org/), na której był prelegentem
+
+Wszystkich chetnych zachęcamy do wystąpienia z Lighting Talkiem
+(ok 5 min na dowolny temat).
+
+Serdecznie zapraszamy :) Zarezerwujcie sobie czas na afterparty ;-)
+
+Do zobaczenia!
