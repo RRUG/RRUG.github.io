@@ -3,6 +3,10 @@ layout: page
 title: Prezentacje ze spotkań
 permalink: /presentations/
 ---
+
+### 2017/2018
+* Wojek Rząsa [EuRuKo 2017 recap](https://speakerdeck.com/wrzasa/euruko-2017-recap)
+
 ### 2016/2017
 * Paweł Cyło [Hanami for Rails developers](https://speakerdeck.com/pcylo/hanami-for-rails-developers)
 * Michał Borkowski [Read a book for great good!](https://read-a-book-dd53a.firebaseapp.com/#/)
