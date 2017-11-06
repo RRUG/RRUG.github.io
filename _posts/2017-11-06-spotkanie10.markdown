@@ -15,7 +15,7 @@ Rzeszowskiej](https://www.google.pl/maps/place/Marii+Sk%C5%82odowskiej-Curie+8%2
 
 Zapraszamy na kolejne spotkanie. W planach dwie prezentacje:
 
-* Przemek Sienkowski opowie o uploadzie
+* [Przemek Sienkowski](https://www.linkedin.com/in/przemys%C5%82aw-sienkowski-520254b0/) opowie o uploadzie
 plików na Amazon S3 za pomocą gemu shrine
 
 Wszystkich chetnych zachęcamy do wystąpienia z Lighting Talkiem
