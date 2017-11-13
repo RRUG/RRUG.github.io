@@ -5,7 +5,9 @@ permalink: /presentations/
 ---
 
 ### 2017/2018
+* Przemek Sienkowski [File uploading with Shrine gem](http://slides.com/przemeksienkowski/deck-4#/)
 * Wojek Rząsa [EuRuKo 2017 recap](https://speakerdeck.com/wrzasa/euruko-2017-recap)
+
 
 ### 2016/2017
 * Paweł Cyło [Hanami for Rails developers](https://speakerdeck.com/pcylo/hanami-for-rails-developers)
