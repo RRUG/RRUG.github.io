@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Spotkanie #11 – 8.12.2017 – O gemie dry-rb. O rzeczach, które
+działają z pozoru."
+
+date:   2017-11-23 10:00:00 +0100
+categories: meetup
+---
+
+### O gemie dry-rb. O rzeczach, które działają z pozoru.
+
+Czas: **8 grudnia 2017, godz. 18:00**
+
+Miejsce: Tym razem **[KWADRAT, Bardowskiego
+4](https://www.google.pl/maps/place/KWADRAT+-+Podkarpacka+Przestrze%C5%84+Kreatywna/@50.0419506,21.9941594,15z/data=!4m8!1m2!2m1!1skwadrat+rzesz%C3%B3w+bartowskiego!3m4!1s0x473cfb1d56edb3cb:0x8a0ba3e44d9c88e9!8m2!3d50.0415756!4d22.0091658)**
+
+Zapraszamy na kolejne spotkanie. W planach dwie prezentacje:
+
+* [Jakub Łopusiński](https://www.linkedin.com/in/siemakuba/): SOA#1 – Do not take it for granted
+* [Artur Dębski](https://twitter.com/mentero): Use dry-rb to dry your code
+
+Wszystkich chetnych zachęcamy do wystąpienia z Lighting Talkiem
+(ok 5 min na dowolny temat).
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
