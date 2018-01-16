@@ -9,6 +9,7 @@ permalink: /presentations/
 * Artur Dębski [dry-ruby](/downloads/rrug11_mentero_dry_ruby.pdf)
 * Przemek Sienkowski [File uploading with Shrine gem](http://slides.com/przemeksienkowski/deck-4#/)
 * Wojek Rząsa [EuRuKo 2017 recap](https://speakerdeck.com/wrzasa/euruko-2017-recap)
+* Maciek Rząsa [XLSX in Ruby](https://speakerdeck.com/mrzasa/xlsx-in-ruby-rrug-number-9)
 
 
 ### 2016/2017
