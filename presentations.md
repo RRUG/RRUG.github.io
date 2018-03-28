@@ -5,6 +5,7 @@ permalink: /presentations/
 ---
 
 ### 2017/2018
+* Kamil Szubrycht [Vue.js from Scratch](https://slides.com/kszubrycht/rrug12-vuejs#/)
 * Jakub Łopusiński [SOA#1 – Do not take it for granted](/downloads/rrug11_jakub_lupusinski_soa1.pdf)
 * Artur Dębski [dry-ruby](/downloads/rrug11_mentero_dry_ruby.pdf)
 * Przemek Sienkowski [File uploading with Shrine gem](http://slides.com/przemeksienkowski/deck-4#/)
