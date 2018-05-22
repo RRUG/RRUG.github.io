@@ -5,6 +5,7 @@ permalink: /presentations/
 ---
 
 ### 2017/2018
+* Paweł Cyło [General Data Protection Regulation for Developers](https://speakerdeck.com/pcylo/gdpr-for-developers)
 * Kamil Szubrycht [Vue.js from Scratch](https://slides.com/kszubrycht/rrug12-vuejs#/)
 * Wojtek Rząsa [Ruby blinks and Shines on RaspberryPi (no slides,
   just speaker notes)](https://gist.github.com/wrzasa/62d63b570b01c76eb912ee67f7555567)
