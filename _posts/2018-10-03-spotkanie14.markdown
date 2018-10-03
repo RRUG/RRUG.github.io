@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Spotkanie #15 – 09.10.2018 – Transducery. Service objecty."
+
+date:   2018-01-03 09:00:00 +0100
+categories: meetup
+---
+
+### Transducery. Service objecty.
+
+Czas: **9 paździenika 2018, godz. 19:00**
+
+Miejsce: **[Hokus Pokus, 3 Maja 13](https://goo.gl/maps/MVZbt2tpW862)
+Zapraszamy na kolejne spotkanie. W planach prezentacja: [Maćka Rząsy](https://twitter.com/mjrzasa) _Transducery - wydajne przetwarzanie kolekcji w Rubym_, oraz [Pawła Cyło](https://twitter.com/PawelCylo) i [Mateusza Bielca](https://twitter.com/mbie) _SODD - Service-Object Driven Development_ oraz sesja lightning talków. Każdy chętny może powiedzieć lighning talka (5 min) na dowolny temat.
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
