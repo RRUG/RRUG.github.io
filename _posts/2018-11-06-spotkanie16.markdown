@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spotkanie #16 – 06.11.2018 – Rake taski. Co wkurza testera?"
+
+date:   2018-10-23 23:00:00 +0100
+categories: meetup
+---
+
+### Rake taski. Co wkurza testera?
+
+Czas: **9 paździenika 2018, godz. 19:00**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+Mateusz: 
+Sebastian W: 
+
+Zapraszamy na kolejne spotkanie. W planach prezentacja: [Mateusza Bielca](https://twitter.com/mbie) _Do not belittle rake tasks_, oraz [Sebastiana Wcisło](https://twitter.com/s_wcislo) _Co wkurza testera?_ oraz sesja lightning talków. Każdy chętny może powiedzieć lighning talka (5 min) na dowolny temat.
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
