@@ -3,6 +3,8 @@ layout: page
 title: Prezentacje ze spotkań
 permalink: /presentations/
 ---
+### 2018/2019
+* Mateusz Bielec [Do Not Belittle Rake Tasks](https://speakerdeck.com/mbie/do-not-belittle-rake-tasks)
 
 ### 2017/2018
 * Paweł Cyło [General Data Protection Regulation for Developers](https://speakerdeck.com/pcylo/gdpr-for-developers)
