@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotkanie #17 – 04.12.2018 – Dry-transaction. ?"
+title:  "Spotkanie #17 – 04.12.2018 – Dry-transaction. Generatory statycznych stron w Ruby"
 
 date:   2018-11-28 22:00:00 +0100
 categories: meetup
