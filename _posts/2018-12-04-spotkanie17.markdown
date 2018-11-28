@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Spotkanie #17 – 04.12.2018 – Dry-transaction. ?"
+
+date:   2018-11-28 22:00:00 +0100
+categories: meetup
+---
+
+### Rake taski. Statyczne strony
+
+Czas: **4 grudnia 2018, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+
+Zapraszamy na kolejne spotkanie. W planach prezentacja: [Maćka Rząsy](https://twitter.com/mjrzasa) _dry-transaction_, oraz [Pawła Cyło](https://twitter.com/PawelCylo) _Generatory statycznych stron w Ruby_ oraz sesja lightning talków. Każdy chętny może powiedzieć lighning talka (5 min) na dowolny temat.
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
