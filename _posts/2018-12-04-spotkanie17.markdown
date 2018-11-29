@@ -6,7 +6,7 @@ date:   2018-11-28 22:00:00 +0100
 categories: meetup
 ---
 
-### Rake taski. Statyczne strony
+### Dry-transaction. Statyczne strony
 
 Czas: **4 grudnia 2018, godz. 18:30**
 
