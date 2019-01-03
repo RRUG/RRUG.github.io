@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Spotkanie #18 – 08.01.2019 – Hexagonal architecture. Generatory statycznych stron w Ruby"
+title:  "Spotkanie #18 – 08.01.2019 – Hexagonal architecture. Kim jest senior developer?"
 
-date:   2019-01-08 22:00:00 +0100
+date:   2019-01-03 12:00:00 +0100
 categories: meetup
 ---
 
