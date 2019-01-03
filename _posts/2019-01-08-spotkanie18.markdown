@@ -8,7 +8,7 @@ categories: meetup
 
 ### Hexagonal Architecture. Kim jest senior developer?
 
-Czas: *8 stycznia 2019, godz. 18:30**
+Czas: **8 stycznia 2019, godz. 18:30**
 
 Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
 
