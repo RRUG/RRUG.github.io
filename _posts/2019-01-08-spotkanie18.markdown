@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Spotkanie #18 – 08.01.2019 – Hexagonal architecture. Generatory statycznych stron w Ruby"
+
+date:   2019-01-08 22:00:00 +0100
+categories: meetup
+---
+
+### Hexagonal Architecture. Kim jest senior developer?
+
+Czas: *8 stycznia 2019, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+
+Zapraszamy na kolejne spotkanie. Tym razem mniej Ruby, ale równie istotne tematy. W planach prezentacja: [Waldka Mękala](https://twitter.com/wmekal) _Hexagonal_Architecture_, oraz prezentacja z dyskusją [Maćka Rząsy](https://twitter.com/mjrzasa) _Kto to jest senior developer_ oraz sesja lightning talków. Każdy chętny może powiedzieć lighning talka (5 min) na dowolny temat.
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
