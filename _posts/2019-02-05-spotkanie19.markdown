@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Spotkanie #19 – 05.02.2019 – Jak zostać DevOpsem w 30 minut. TypeScript from a rubyist's perspective"
+
+date:   2019-01-22 12:00:00 +0100
+categories: meetup
+---
+
+### Jak zostać DevOpsem w 30 minut. TypeScript from a rubyist's perspective
+
+Czas: **5 lutego 2019, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+
+Zapraszamy na kolejne spotkanie. Tym razem [Michał Borkowski](https://twitter.com/wielkiborsuk) opowie nam _Jak zostać DevOpsem_ w 30 minut a [Róża Szylar](https://twitter.com/rozaszy) przedstawi _TypeScript z perspektywy Rubiowca_. Zapraszamy również do przedstawienia lighning talka (5 min) na dowolny temat.
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
