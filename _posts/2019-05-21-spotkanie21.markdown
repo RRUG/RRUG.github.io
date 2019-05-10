@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spotkanie #21 – 21.05.2019 – Live coding a RuboCop Cop. Aspergers in IT"
+
+date:   2019-05-10 12:00:00 +0100
+categories: meetup
+---
+
+### Live coding a RuboCop Cop. Aspergers in IT
+
+Czas: **21 maja 2019, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+
+Zapraszamy na kolejne spotkanie RRUG. UWAGA! Tym razem prezentacje będą przedstawione w języku angielskim!
+
+[Jonatas Paganini](https://twitter.com/jonatasdp) przedstawi na żywo jak stworzyć nowy cop w Rubocopie w prezentacji pod tytułem _Live coding a RuboCop Cop_. Druga prezentacja o ludziach z zespołem Aspergera w branży IT _Aspergers in IT_ zostanie przedstawiona przez [Michała Papisa](https://twitter.com/mpapis). Zapraszamy również do przedstawienia lighning talka (5 min) na dowolny temat (język do wyboru :))
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
