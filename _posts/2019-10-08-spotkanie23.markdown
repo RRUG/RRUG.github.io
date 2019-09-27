@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Spotkanie #23 – 08.10.2019 – Indeksy w bazach danych. Elixir"
+
+date:   2019-09-27 22:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #23 – Indeksy w bazach danych. Elixir
+
+Czas: **08 października 2019, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+Zaczynamy nowy (już czwarty!) sezon spotkań. Na początek proponujemy dwie wysoce techniczne prezentacje.
+
+[Maciek Rząsa](https://twitter.com/mjrzasa) odpowie na dręczące wielu pytanie _Dlaczego baza danych nie używa mojego indeksu?_ W tym celu wyjaśni jak działają indeksy i jak baza danych z nich korzysta.
+
+[Szymon Mentel](https://twitter.com/szymonmentel) w prezentacji _Elixir - najważniejsze właściwości platformy i języka. Komu to jest potrzebne i dlaczego?_ opowie o języku bliskim wielu Rubiowcom. W planie - lightweight processes, soft-real time processing, fault tolerance, scalability, location transparency, DSLs; jakie firmy używają i dlaczego.
+
+Serdecznie zapraszamy :). Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
