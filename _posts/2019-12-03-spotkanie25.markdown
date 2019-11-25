@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotkanie #25 – 03.12.2019 – Indeksy w bazach danych. Elixir"
+title:  "Spotkanie #25 – 03.12.2019 – DB query internals. Mikroserwisy: od HTTP do Kafki"
 
 date:   2019-11-27 10:00:00 +0100
 categories: meetup
