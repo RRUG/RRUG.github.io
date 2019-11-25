@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spotkanie #25 – 03.12.2019 – Indeksy w bazach danych. Elixir"
+
+date:   2019-11-27 10:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #25 – DB query internals. Mikroserwisy: od HTTP do Kafki.
+
+Czas: **03 grudnia 2019, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+Zaczynamy kolejne spotkanie grupy użytkowników Rubiego. W planie dwie prezentacje:
+
+[Maciek Rząsa](https://twitter.com/mjrzasa): w prezentacji  _SELECT czyli tam i z powrotem_ opowie o tym, jak baza danych przetwarza zapytania i do czego można użyć tej wiedzy. 
+[Wojtek Rząsa](https://twitter.com/wrzasa): podzieli sę swoimi doświadczeniami w prezentacji  _From HTTP to Kafka-based Microservices_ 
+
+Serdecznie zapraszamy :). Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
