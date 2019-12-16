@@ -3,6 +3,11 @@ layout: page
 title: Prezentacje ze spotkań
 permalink: /presentations/
 ---
+
+### 2019/2020
+* Wojciech Rząsa [From HTTP to Kafka-based Microservices](https://speakerdeck.com/wrzasa/from-http-to-kafka-based-microservices-extended)
+
+
 ### 2018/2019
 * Sebastian Wcisło [What annoys tested in never ending battles with developers](/downloads/rrug16_sebastian_wcislo_QA.pdf)
 * Mateusz Bielec [Do Not Belittle Rake Tasks](https://speakerdeck.com/mbie/do-not-belittle-rake-tasks)
