@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Spotkanie #26 – 07.01.2020 – Pragmatic learning and thinking. Trailblazer"
+
+date:   2019-12-21 22:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #26 – Pragmatic learning and thinking. Trailblazer
+
+Czas: **07 stycznia 2020, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+Zapraszamy na pierwsze spotkanie w nowym roku. W planie dwie prezentacje i lightning talk:
+
+[Waldek Mękal](https://twitter.com/wmekal): w prezentacji  _Pragmatic learning and thinking_ opowie o tym, o efektywnym podejściu do nauki nowych rzeczy. 
+Kamil Milewski: w prezentacji _Operacje w TRB - czyli SO na szynach_ wyjaśni, jak za pomocą frameworka Trailblazer pisać logikę biznesową i implementować procesy w jasny i czytelny sposów.
+Na koniec Krzysztof Piotrowski powie lightning talka: _Celle w trb = czyli VO ala kontrolery_ opowiadając, jak można organizować logikę potrzebną w widokach.
+
+Serdecznie zapraszamy :). Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
