@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Spotkanie #27 – 18.02.2020 – Jak wyjść z VIMa? oraz Zwinna architektura."
+
+date:   2019-01-27 22:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #27 – Jak wyjść z VIMa? oraz Zwinna architektura.
+
+Czas: **18 lutego 2020, godz. 18:30**
+
+Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**
+
+Zapraszamy na kolejne spotkanie rzeszowskiej grupy użytkowników Rubiego. W planie dwie prezentacje:
+
+* [**Michał Borkowski**](https://twitter.com/wielkiborsuk) (nie trzeba przedstawiać) odpowie na odwieczne użytkowników systemów uniksowych -
+_Uroki pracy w konsoli, czyli jak wyjść z VIM-a w 15 prostych krokach._
+* [**Paweł Janusz**](https://twitter.com/Czujnik81) (mamy nadzieję, że pamiętacie z zeszłego roku) podzieli swoimi 
+doświadczeniami ze zmienianiem "niezmiennego" w prezentacji _Zwinne podejście do architektury - czy my to robimy?_
+
+Serdecznie zapraszamy :). Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
