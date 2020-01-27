@@ -2,7 +2,7 @@
 layout: post
 title:  "Spotkanie #27 – 18.02.2020 – Jak wyjść z VIMa? oraz Zwinna architektura."
 
-date:   2019-01-27 22:00:00 +0100
+date:   2020-01-27 22:00:00 +0100
 categories: meetup
 ---
 
