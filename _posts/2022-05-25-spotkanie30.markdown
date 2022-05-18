@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "Spotkanie #29 – 16.08.2021 – Jak się uczyć?"
+title:  "Spotkanie #30 – 25.05.2022 – Practical Event-based Ruby (Micro)Services, Optimizing Serverless Ruby Apps"
 
-date:   2021-08-10 12:00:00 +0200
+date:   2022-05-10 19:00:00 +0100
 categories: meetup
 ---
 
-### Spotkanie #29 – Jak się uczyć?
+### Spotkanie #30 – Practical Event-based Ruby (Micro)Services, Optimizing Serverless Ruby Apps
 
-Czas: **16 sierpnia 2021, godz. 19:00**
+Czas: **25 maja 2022, godz. 19:00**
 
-Miejsce: **[Lord Jack, Rynek 4](https://goo.gl/maps/zrtPaZJ5W8E2)**, sala po prawej stronie od wejścia
+Miejsce: Miejsce: **[Hokus Pokus, 3 Maja 13](https://goo.gl/maps/MVZbt2tpW862)**
 
-Zapraszamy na kolejne spotkanie rzeszowskiej grupy użytkowników Rubiego. W planie prezentacja:
+Powracamy ze spotkaniami rzeszowskiej grupy użytkowników Rubiego. W planie mamy dwie prezentacje:
 
-* [**Michał Borkowski**](https://twitter.com/wielkiborsuk) (nie trzeba przedstawiać) Opowie o tym, kiedy i jak się uczyć, a przede wszystkim - po co.
+* **Seb Sito** opowie o tym praktycznych zastosowaniach zdarzeń w aplikacjach Ruby
+* **Adam Maślanka** podzieli się z nami tajnikami optymailizacji aplikacji typu server-less
 
-Serdecznie zapraszamy :). Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
 
 Do zobaczenia!
+
+PS. Mamy darmowe wejściówki do rozdania na zbliżającą się konferencję [Craft-IT](https://craft-it.pl)
