@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Spotkanie #31 – 05.10.2022 – How I Built My Smart Home Solution?"
+title:  "Spotkanie #31 – 05.10.2022 – How I Built My Smart Home Solution?, wroclove.rb 2022 - recap"
 
-date:   2022-09-10 19:00:00 +0100
+date:   2022-09-10 18:30:00 +0100
 categories: meetup
 ---
 
-### Spotkanie #31 – How I Built My Smart Home Solution?
+### Spotkanie #31 – How I Built My Smart Home Solution?, wroclove.rb 2022 - recap
 
 Czas: **05 października 2022, godz. 19:00**
 
@@ -15,7 +15,7 @@ Miejsce: Miejsce: **[Hokus 2.0, 3 Maja 13](https://goo.gl/maps/MVZbt2tpW862)**
 Po wakacjach powracamy ze spotkaniami rzeszowskiej grupy użytkowników Rubiego. W planie mamy dwie prezentacje:
 
 * **[Kamil Szubrycht](https://twitter.com/kamilszubrycht)** opowie o tym jak zbudował swój inteligentny dom
-* TBD
+* **Jakub Klocek** podzieli się swoimi wrażeniami po tegorocznej konferencji wroclove.rb
 
 Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
 
