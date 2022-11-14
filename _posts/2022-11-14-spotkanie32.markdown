@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #32 – 16.11.2022 – Techniki malarskie w dockerze"
+
+date:   2022-11-14 16:30:00 +0100
+categories: meetup
+---
+
+### Spotkanie #32 – Techniki malarskie w dockerze
+
+Czas: **16 listopada 2022, godz. 18:30**
+
+Miejsce: Miejsce: **[Zest, Rynek 19](https://goo.gl/maps/1yqjLALN2zr4TTQQ9)**
+
+Kolejne spotkanie, kolejna ciekawa prezentacja:
+
+* **[Michał Borkowski](https://twitter.com/wielkiborsuk)** opowie o tym jak dobrze budować obrazy dockerowe (a jak ich nie budować)
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
