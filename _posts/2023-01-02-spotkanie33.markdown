@@ -8,7 +8,10 @@ categories: meetup
 
 ### Spotkanie #33 – Indeksy w Postgresie. Debuggowanie.
 
-Miejsce: Miejsce: **[Powoli cafe,  Mickiewicza 4](https://goo.gl/maps/4pFZqF9SeASVsMSn6)**
+Czas: **11 stycznia (środa) o 18:30**
+
+Miejsce: **[Powoli cafe,  Mickiewicza 4](https://goo.gl/maps/4pFZqF9SeASVsMSn6)**
+
 
 Zaczynamy rok od dwóch prezentacji:
 
