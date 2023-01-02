@@ -12,8 +12,8 @@ Miejsce: Miejsce: **[Powoli cafe,  Mickiewicza 4](https://goo.gl/maps/4pFZqF9SeA
 
 Zaczynamy rok od dwóch prezentacji:
 
-* **Maciek Biel** opowie o tym jak działają indeksy w PostgreSQL w prezentacji _O Indeksach w PostgreSQL_
-* **[Maciek Rząsa](https://twitter.com/mjrzasa)** podzieli się skutecznymi metodami debuggowania w prezentacji _Let's Debug Like Scientists_
+* **Maciek Biel** opowie o tym jak działają indeksy w PostgreSQL w prezentacji **_O Indeksach w PostgreSQL_**
+* **[Maciek Rząsa](https://twitter.com/mjrzasa)** podzieli się skutecznymi metodami debuggowania w prezentacji **_Let's Debug Like Scientists_**
 
 Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
 
