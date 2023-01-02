@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Spotkanie #33 – 11.01.2023 – Indeksy w Postgresie. Debuggowanie."
+
+date:   2023-01-02 13:44:12 +0100
+categories: meetup
+---
+
+### Spotkanie #33 – Indeksy w Postgresie. Debuggowanie.
+
+Miejsce: Miejsce: **[Powoli cafe,  Mickiewicza 4](https://goo.gl/maps/4pFZqF9SeASVsMSn6)**
+
+Zaczynamy rok od dwóch prezentacji:
+
+* **Maciek Biel** opowie o tym jak działają indeksy w PostgreSQL w prezentacji _O Indeksach w PostgreSQL_
+* **(Maciek Rząsa)[https://twitter.com/mjrzasa]** podzieli się skutecznymi metodami debuggowania w prezentacji _Let's Debug Like Scientists_
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
