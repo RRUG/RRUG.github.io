@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spotkanie #34 – 24.04.2023 – Cachowanie w Railsach. Workation"
+
+date:   2023-04-17 21:00:00 +0200
+categories: meetup
+---
+
+### Spotkanie #34 – Cachowanie w Railsach. Workation.
+
+Czas: **24 kwietnia (poniedziałek) o 18:30** (Tak, zmieniamy dzień: **PONIEDZIAŁEK**)
+
+Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+Zapraszamy na dwie prezentacje:
+
+* **Mateusz Utkała** opowie o cachowaniu w Railsach w prezentacji **_Let's cache it - Rails cache in examples_**
+* **Róża Szylar** powie, jak łączyć pracę z podróżami w prezentacji **_Workation - o łaczeniu pracy z podróżami_**
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
