@@ -3,6 +3,9 @@ layout: page
 title: Prezentacje ze spotkań
 permalink: /presentations/
 ---
+### 2022/2023
+
+* Mateusz Utkała [Let's cache it](/downloads/rrug34_mateusz_utkala_cache.pdf)
 
 ### 2019/2020
 * Wojciech Rząsa [From HTTP to Kafka-based Microservices](https://speakerdeck.com/wrzasa/from-http-to-kafka-based-microservices-extended)
