@@ -15,7 +15,7 @@ Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9
 Zapraszamy na dwie prezentacje:
 
 * **[Jônatas Paganini](https://twitter.com/jonatasdp)** z TimescaleDB opowie o bibliotece rubiowej do obsługi tej bazy danych w prezentacji **_Walkthrough the Timescaledb Gem_**
-* **[Maciek Rząsa](https://twitter.com/mjrzasa)** podzieli się z doświadczeniami z rekrutacji w lightning talku **_Czego nauczyłem się (znowu) szukając pracy_**
+* **[Maciek Rząsa](https://twitter.com/mjrzasa)** podzieli się z doświadczeniami z rekrutacji w lightning talku **_Looking for a New Job (Again): Lessons Learnt_**
 
 Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
 
