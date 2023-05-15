@@ -6,7 +6,7 @@ date:   2023-05-15 21:00:00 +0200
 categories: meetup
 ---
 
-### Spotkanie #34 – TimescaleDB. Szukanie pracy
+### Spotkanie #35 – TimescaleDB. Szukanie pracy
 
 Czas: **24 kwietnia (poniedziałek) o 18:30** 
 
