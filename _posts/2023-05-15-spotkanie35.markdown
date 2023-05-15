@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spotkanie #35 – 12.05.2023 – TimescaleDB. Szukanie pracy"
+
+date:   2023-05-15 21:00:00 +0200
+categories: meetup
+---
+
+### Spotkanie #34 – TimescaleDB. Szukanie pracy
+
+Czas: **24 kwietnia (poniedziałek) o 18:30** 
+
+Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+Zapraszamy na dwie prezentacje:
+
+* **[Jônatas Paganini](https://twitter.com/jonatasdp)** z TimescaleDB opowie o bibliotece rubiowej do obsługi tej bazy danych w prezentacji **_Walkthrough the Timescaledb Gem_**
+* **[Maciek Rząsa](https://twitter.com/mjrzasa)** podzieli się z doświadczeniami z rekrutacji w lightning talku **_Czego nauczyłem się (znowu) szukając pracy_**
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
