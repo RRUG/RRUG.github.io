@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotkanie #35 – 12.05.2023 – TimescaleDB. Szukanie pracy"
+title:  "Spotkanie #35 – 12.06.2023 – TimescaleDB. Szukanie pracy"
 
 date:   2023-05-15 21:00:00 +0200
 categories: meetup
@@ -8,7 +8,7 @@ categories: meetup
 
 ### Spotkanie #35 – TimescaleDB. Szukanie pracy
 
-Czas: **24 kwietnia (poniedziałek) o 18:30** 
+Czas: **12 czerwca (poniedziałek) o 18:30** 
 
 Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
