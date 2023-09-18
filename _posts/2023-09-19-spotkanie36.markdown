@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #36 – 11.09.2023 – Flaky tests"
+
+date:   2023-09-19 00:30:00 +0200
+categories: meetup
+---
+
+### Spotkanie #36 – Flaky tests
+
+Czas: **11 października (środa) o 18:30** 
+
+Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+Zaczynamy nowy sezon spotkań od prezentacji:
+
+* **[Maciek Rząsa](https://twitter.com/mjrzasa)**:  **_Let's write a flaky test_**
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
