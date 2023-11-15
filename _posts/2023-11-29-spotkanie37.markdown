@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #37 – 29.11.2023 – Nie drażnij DevOpsa"
+
+date:   2023-11-15 23:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #37 – Nie drażnij DevOpsa
+
+Czas: **29 listopada (środa) o 18:30** 
+
+Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+Kolejne spotkanie w tym sezonie. Tym razem w planie:
+
+* **[Michał Borkowski](https://twitter.com/wielkiborsuk)**:  **_Nie drażnij DevOpsa - życie w zgodzie w zespole deweloperskim_**
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty - planujemy iść do [Texasu](https://texas.rzeszow.pl/) około 20:45. ;-)
+
+Do zobaczenia!
