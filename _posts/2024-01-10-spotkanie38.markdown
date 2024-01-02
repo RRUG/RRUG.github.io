@@ -15,7 +15,7 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 Zapraszamy na dwie prezentacje:
 
 * **[Wojtek Rząsa](https://twitter.com/wrzasa)** podzieli się doświadczeniami z pracy z zespołami wymaganiami produktowymi w prezentacji **_Working with Product Requirements_**
-* **[Krzysztof Hasiński](https://www.linkedin.com/in/khasinski/)** opowie o tym, co zrobić, żeby wydajnie wykorzystywać bazy danych w aplikacjach rubiowych w prezentacji **_Fantastic Databases And Where To Find Themdisco_**
+* **[Krzysztof Hasiński](https://www.linkedin.com/in/khasinski/)** opowie o tym, co zrobić, żeby wydajnie wykorzystywać bazy danych w aplikacjach rubiowych w prezentacji **_Fantastic Databases And Where To Find Them_**
 
 Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
 
