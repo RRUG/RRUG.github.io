@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spotkanie #38 – 10.01.2024 – Wymagania. Bazy danych"
+
+date:   2023-01-02 21:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #35 – TimescaleDB. Szukanie pracy
+
+Czas: **10 stycznia (środa) o 18:30** (uwaga, zaczynamy prezentacje o 18:45) 
+
+Miejsce: **[Urban Lab - Open Cafe, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+Zapraszamy na dwie prezentacje:
+
+* **[Wojtek Rząsa](https://twitter.com/wrzasa)** podzieli się doświadczeniami z pracy z zespołami wymaganiami produktowymi w prezentacji **_Working with Product Requirements_**
+* **[Maciek Rząsa](https://twitter.com/mjrzasa)** opowie o tym, co zrobić, żeby wydajnie wykorzystywać bazy danych w aplikacjach rubiowych w prezentacji **_Fantastic Databases And Where To Find Themdisco_**
+
+Serdecznie zapraszamy :) Koniecznie zarezerwujcie sobie czas na afterparty! ;-)
+
+Do zobaczenia!
