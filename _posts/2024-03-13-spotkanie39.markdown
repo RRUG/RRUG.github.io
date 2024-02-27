@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Spotkanie #39 – 10.01.2024 –  Wydajne testy. Hotwire"
+
+date:   2024-02-27 21:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #38 – 13.03.2024 –  Wydajne testy. Hotwire
+
+Czas: **13 stycznia (środa) o 18:30** (uwaga, zaczynamy prezentacje o 18:45) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Na marcowym spotkaniu planujemy dwie prezentacje:
+
+* **Makar Ermokhin** opowie o tym jak optymalizować testy: **Efficient Testing**
+* **Piotr Skoczylas** zaprezentuje nowoczesne podejście do tworzenia frontendu w Railsach: **Make FullStack Rails Great Again with Hotwire**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
