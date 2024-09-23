@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Spotkanie #40 – 16.10.2024 – Sidekiq. Git internals."
+
+date:   2024-09-23 15:00:00 +0100
+categories: meetup
+---
+
+### Spotkanie #40 – 16.10.2024 –  Sidekiq. Git internals.
+
+Czas: **16 października (środa) o 18:30** (uwaga, zaczynamy prezentacje o 18:35) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Zaczynamy kolejny sezon od dwóch prezentaji:
+
+* **Maciek Rząsa** streści swoje doświadczenia z background jobami w prezentacji: **Sidekiq: Dobre praktyki**
+* **Maciek Biel** opowie, jak Git, który kiedyś był jego największym wrogiem, stał się teraz jego największym sprzymierzeńcem w prezentacji: **Git internals demystified**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
