@@ -14,8 +14,8 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 Zaczynamy kolejny sezon od dwóch prezentacji:
 
-* **Maciek Rząsa** streści swoje doświadczenia z background jobami w prezentacji: **Sidekiq: Dobre praktyki**
 * **Maciek Biel** opowie, jak Git, który kiedyś był jego największym wrogiem, stał się teraz jego największym sprzymierzeńcem w prezentacji: **Git internals demystified**
+* **Maciek Rząsa** streści swoje doświadczenia z background jobami w prezentacji: **Sidekiq: Dobre praktyki**
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
 
