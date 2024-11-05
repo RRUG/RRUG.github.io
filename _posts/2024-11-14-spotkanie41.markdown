@@ -2,7 +2,7 @@
 layout: post
 title:  "Spotkanie #41 – 14.11.2024 – Functional Programming. Flaky tests"
 
-date:   2024-11-204 15:00:00 +0100
+date:   2024-11-04 15:00:00 +0100
 categories: meetup
 ---
 
