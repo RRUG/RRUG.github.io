@@ -14,7 +14,7 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 Zapraszamy na kolejne spotkanie, tym razem 
 
-* **[Agnieszka Małaszkiewicz](https://twitter.com/womanonrails)** zgłębi tajniki funkcjonalnego programowania w Ruby podczas prezentacji: **Functional Programming in Ruby - Proc, Lambda, and Beyond**
+* **[Agnieszka Małaszkiewicz](https://womanonrails.com)** zgłębi tajniki funkcjonalnego programowania w Ruby podczas prezentacji: **Functional Programming in Ruby - Proc, Lambda, and Beyond**
 * **[Alek Małaszkiewicz](https://torrocus.com)** pokaże jaką można mieć super zabawę z losowo nieprzechodzącymi testami w prezentacji: **How to deal with flaky tests?**
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
