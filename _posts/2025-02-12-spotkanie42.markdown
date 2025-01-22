@@ -15,8 +15,7 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 Zapraszamy na pierwsze spotkanie w nowym roku, tym razem 
 
 * **[Michał Borkowski](https://twitter.com/wielkiborsuk)** opowie o nadużywaniu gita w prezentacji: **Git jakiego nie znacie**
-* **[Paweł Niemczyk](https://www.linkedin.com/in/way2doit)** pokaże stworzone przez siebie narzędzie wspierające pracę z developerów: **
-Rails Spotlight: Mały pomocnik w budowaniu aplikacji RoR**
+* **[Paweł Niemczyk](https://www.linkedin.com/in/way2doit)** pokaże stworzone przez siebie narzędzie wspierające pracę developerów: **Rails Spotlight: Mały pomocnik w budowaniu aplikacji RoR**
 
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
