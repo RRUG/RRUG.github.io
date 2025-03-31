@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Spotkanie #43 – 9.04.2025 – Unit testy. Zwolnienia."
+
+date:   2025-03-31 15:00:00 +0100
+categories: meetup
+---
+
+
+Czas: **9 kwietnia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Zapraszamy na kolejne tym razem 
+
+* **[Waldek Mękal](https://pl.linkedin.com/in/waldemar-m%C4%99kal-07730a6)** opowie o testowaniu w prezentacji: **Unit testing: How to avoid cementing the implementation?**
+* Otwarty panel dyskusyjne na temat: **Jak przetrwać zwolnienia w firmie?**
+
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
