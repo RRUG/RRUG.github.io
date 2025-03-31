@@ -2,7 +2,7 @@
 layout: post
 title:  "Spotkanie #43 – 9.04.2025 – Unit testy. Zwolnienia."
 
-date:   2025-03-31 15:00:00 +0100
+date:   2025-03-31 11:00:00 +0200
 categories: meetup
 ---
 
