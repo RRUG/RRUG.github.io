@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #44 – 07.05.2025 – Kubernetes"
+
+date:   2025-04-27 11:00:00 +0200
+categories: meetup
+---
+
+
+Czas: **7 maja (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Zapraszamy na kolejne tym razem 
+
+* **[Bartosz Rybacki](https://www.linkedin.com/in/bartoszrybacki/)** opowie o k8s w prezentacji: **Autoskalowanie aplikacji w Kubernetes, teoria, HPA i własny operator w praktyce?**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
