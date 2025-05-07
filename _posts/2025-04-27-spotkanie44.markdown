@@ -12,9 +12,10 @@ Czas: **7 maja (środa) o 18:00** (zaczynamy prezentacje o 18:05)
 Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 
-Zapraszamy na kolejne tym razem 
+Zapraszamy na kolejne spotkanie, tym razem 
 
 * **[Bartosz Rybacki](https://www.linkedin.com/in/bartoszrybacki/)** opowie o k8s w prezentacji: **Autoskalowanie aplikacji w Kubernetes, teoria, HPA i własny operator w praktyce?**
+* **[Mateusz Utkała](https://www.linkedin.com/in/mateusz-utkala)** opowie o pracy z API w prezentacji: **Grape - wydajne i dobrze udokumentowane API.**
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
 
