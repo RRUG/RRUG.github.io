@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotkanie #45 – 11.09.2025 – REST 4 Mobile"
+title:  "Spotkanie #45 – 08.10.2025 – REST 4 Mobile"
 
 date:   2025-09-11 21:00:00 +0200
 categories: meetup
@@ -13,7 +13,7 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 
 Otwieramy nowy sezon spotkań! W planie:
-* **Aleksander Jodłowski ** opowie o budowaniu API w prezentacji: **REST 4 Mobile**
+* **Aleksander Jodłowski** opowie o budowaniu API w prezentacji: **REST 4 Mobile**
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
 
