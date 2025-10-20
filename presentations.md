@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 ### 2025/2026
 
-* Aleksander Jodłowski [REST 4 Mobile](/downnloads/rrug45_aleksander_jodlowski_rest4mobile.pdf)
+* Aleksander Jodłowski [REST 4 Mobile](/downloads/rrug45_aleksander_jodlowski_rest4mobile.pdf)
 
 
 ### 2022/2023
