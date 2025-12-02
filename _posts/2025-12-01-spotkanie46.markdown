@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #46 – 12.12.2025 – OpenTelemetry, Agenci AI"
+
+date:   2025-12-01 21:00:00 +0200
+categories: meetup
+---
+
+
+Czas: **10 grudnia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Zapraszamy na kolejne spotkanie nasze grupy! W planie:
+* **[Mateusz Utkała](https://www.linkedin.com/in/mateusz-utkala/)** opowie o budowaniu OpenTelemetry w prezentacji: **OpenTelemetry jako furtka do APM na własnych zasadach**
+* **Mateusz Bielec** wprowadzi nas w świat agentów AI w prezentacji: **Introduction to Coding Agents with Claude Code**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
