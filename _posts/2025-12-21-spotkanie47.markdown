@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #47 – 14.12.2025 – OpenTelemetry, Coding with AI Agents"
+
+date:   2025-12-21 00:10:00 +0100
+categories: meetup
+---
+
+
+Czas: **14 stycznia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Pierwsze spotkanie w nowym roku! W planie:
+* **Michał Borkowski** podzieli się doświadczeniem stawiania Kubernetesa samodzielnie: **Kubernetes dla śmiertelników. Co jest pomiędzy Minikube a EKS?**
+* **Aleksander Jodłowski** pokaże, jak Railsy sprawdzaja się jako One-Dev Framework w prezentacji: **Enough is enough**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
