@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #48 – 04.02.2026 – Kubernetes. Rails for Side-projects"
+
+date:   2025-01-27 22:00:00 +0100
+categories: meetup
+---
+
+
+Czas: **4 lutego (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Pierwsze spotkanie w nowym roku! W planie:
+* **Maciek Biel** opowie, jak przechodząc od paraliżującego stresu do opanowanego pożaru, radził sobie z prawdziwymi incydentami na produkcji w prezentacji: **Rails Production Adventures**.
+* **Filip Pacanowski** pokaże zastosowania Temporal w prezentacji : **Durable Execution in Ruby**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
