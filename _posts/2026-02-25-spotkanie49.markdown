@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #49 – 11.03.2026 – Indeksy bazodanowe. Root cause analysis"
+
+date:   2026-02-25 19:00:00 +0100
+categories: meetup
+---
+
+
+Czas: **11 marca (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Kolejne spotkanie! Tym razem w planie:
+* **Michał Szyndel** &mdash; o indeksach bazodanowych.
+* **Oleksandr Kovalevych** &mdash; Root cause analysis
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
