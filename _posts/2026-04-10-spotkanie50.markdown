@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #50 – 11.04.2026 – Architektura. Panel dyskusyjny"
+
+date:   2026-04-10 05:00:00 +0100
+categories: meetup
+---
+
+
+Czas: **11 kwietnia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Kolejne spotkanie! Tym razem w planie:
+* **Kamil Bączek** &mdash; opowia nam o podstawach architekury w prezentacji Software Architecture Solid Fundamentals
+* **panel dyskusyjny** 
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
