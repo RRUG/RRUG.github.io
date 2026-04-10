@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Spotkanie #50 – 11.04.2026 – Architektura. Panel dyskusyjny"
+title:  "Spotkanie #50 – 15.04.2026 – Architektura. Panel dyskusyjny"
 
 date:   2026-04-10 05:00:00 +0100
 categories: meetup
 ---
 
 
-Czas: **11 kwietnia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+Czas: **15 kwietnia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
 
 Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
