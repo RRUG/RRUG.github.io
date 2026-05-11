@@ -13,7 +13,7 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 
 Zapraszamy na ostatnie spotkanie w tym sezonie! Tym razem w planie:
-* **Paweł Niemczyk** &mdash; przedstawi nam jak dziś możemy zrobić coś czego nie spróbowalibyśmy nawet zacząć jeszcze kilka lat temu w prezentacji **_(Mniej → Lepiej → Dalej)ⁿ_**
+* **Paweł Niemczyk** &mdash; przedstawi nam, jak dziś możemy zrobić coś, czego jeszcze kilka lat temu nie odważylibyśmy się nawet zacząć, w prezentacji **_(Mniej → Lepiej → Dalej)ⁿ_**
 * **Bartosz Rybacki** &mdash; pozwoli nam się zastanowić nad jakością naszego code review w prezentacji **_Czy Twoje Code Review faktycznie daje wartość, czy tylko psuje krew?_**
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
