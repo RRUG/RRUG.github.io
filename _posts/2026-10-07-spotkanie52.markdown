@@ -12,7 +12,9 @@ Czas: **07 października (środa) o 18:00** (zaczynamy prezentacje o 18:05)
 Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 
-Zapraszamy na pierwsze spotkanie w jubileuszowym dziesiątym sezonie RRUGa! Tym razem w planie:
+Zapraszamy na pierwsze spotkanie w tym sezonie - świetujemy jubileusz dziesięciu lat RRUGa! 
+
+Tym razem w planie:
 * **Maciek Rząsa** &mdash; podzieli się doświadczeniami skalowania PosgreSQL w aplikacji Railsowej w prezentacji **_Terabajty w PostgreSQL, czyli jak żyć z wielką tabelą_**
 * otwarta dyskusja panelowa
 
