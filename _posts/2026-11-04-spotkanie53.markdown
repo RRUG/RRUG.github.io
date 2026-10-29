@@ -2,7 +2,7 @@
 layout: post
 title:  "Spotkanie #53 – 04.11.2026 – It was never about code."
 
-date:   2026-11-04 21:00:00 +0200
+date:   2026-10-28 21:00:00 +0200
 categories: meetup
 ---
 
