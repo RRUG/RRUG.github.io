@@ -2,7 +2,7 @@
 layout: post
 title:  "Spotkanie #54 – 02.12.2026 – Agentic Coding Framework. Kolejki"
 
-date:   2026-10-13 20:55:00 +0200
+date:   2026-11-13 20:55:00 +0200
 categories: meetup
 ---
 
