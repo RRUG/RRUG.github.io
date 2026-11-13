@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spotkanie #54 – 02.12.2026 – Agentic Coding Framework. Kolejki"
+
+date:   2026-10-13 20:55:00 +0200
+categories: meetup
+---
+
+
+Czas: **2 grudnia (środa) o 18:00** (zaczynamy prezentacje o 18:05) 
+
+Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
+
+
+Zapraszamy na kolejnego RRUGa! W planie:
+* **[Gabriel Ślawski](https://www.linkedin.com/in/gabriel-slawski/)** zaprezentuje sprawdzone w boju metody kodowania agentowego, którego wynikom można ufać w prezentacji **_Agentic Coding Framework - standard na który wszyscy czekaliśmy_**
+* **[Waldek Mękal](https://www.linkedin.com/in/waldemar-mękal-07730a6/)** opowie o swoich doświadczeniach z kolejkami w prezentacji **_Kolejki i skalowanie - historia pewnego ADRa_**
+
+Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
+
+Do zobaczenia!
