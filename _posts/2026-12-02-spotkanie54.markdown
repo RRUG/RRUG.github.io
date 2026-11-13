@@ -13,7 +13,7 @@ Miejsce: **[Urban Lab, 3 Maja 13](https://goo.gl/maps/xfBVTXEWcyR3U9XcA)**
 
 
 Zapraszamy na kolejnego RRUGa! W planie:
-* **[Gabriel Ślawski](https://www.linkedin.com/in/gabriel-slawski/)** zaprezentuje sprawdzone w boju metody kodowania agentowego, którego wynikom można ufać w prezentacji **_Agentic Coding Framework - standard na który wszyscy czekaliśmy_**
+* **[Gabriel Ślawski](https://www.linkedin.com/in/gabriel-slawski/)** zaprezentuje sprawdzone w boju metody kodowania agentowego, którego wynikom można ufać, w prezentacji **_Agentic Coding Framework - standard na który wszyscy czekaliśmy_**
 * **[Waldek Mękal](https://www.linkedin.com/in/waldemar-mękal-07730a6/)** opowie o swoich doświadczeniach z kolejkami w prezentacji **_Kolejki i skalowanie - historia pewnego ADRa_**
 
 Serdecznie zapraszamy - koniecznie zarezerwujcie sobie czas na afterparty!
